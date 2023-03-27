@@ -68,12 +68,12 @@ Note: try not to use reserved words such as init.
 
 To commit, you just have to execute:
 
-```jsx
+```
 $ git minit "starting task"
 [gh-pages 80eff88] init: starting task  (Mon, Mar 27, 2023 07:49:17 AM)
 ```
 
-1. You can combine commands or execute entire scripts, for example this alias combine commit and push
+PS: You can combine commands or execute entire scripts, for example this alias combine commit and push
 
 ```
 pref = "!f() { \
