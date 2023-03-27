@@ -1,3 +1,4 @@
+
 # Aliases
 
 1. Change default git editor to VSCode (```--global``` or ```--local```)
@@ -6,13 +7,13 @@
 git config --global core.editor "code --wait”
 ```
 
-1. Open gitconfig for edit (you use  this for ```—global``` too) 
+2. Open gitconfig for edit (you use  this for ```—global``` too) 
 
 ```
 git config --local --edit
 ```
 
-1. Add Alias for commands: you can create any combination and programs with bash using this example 
+3. Add Alias for commands: you can create any combination and programs with bash using this example 
 
 ```
 [alias]
@@ -22,7 +23,7 @@ git config --local --edit
         }; f"
 ```
 
-1. Save file and run new command
+4. Save file and run new command
 
 ```
 git example
@@ -36,7 +37,7 @@ Hello! this is alias example
 🦥
 ```
 
-1. Now, if we want to add time stamp to our commits, we can use bash syntax, for example
+5. Now, if we want to add time stamp to our commits, we can use bash syntax, for example
 
 ```
 $ echo "$(TZ='Moscow' date +' (%a, %b %d, %Y %I:%M:%S %p)')"
