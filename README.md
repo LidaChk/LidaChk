@@ -25,7 +25,7 @@ I am learning every day of my life
 
 ![Codewars](https://www.codewars.com/users/rsschool_ab9598e695c0849d/badges/micro?theme=light)
 ### My Latetst Lovest Projects
- - [Cthulhu Codewars ![image](https://user-images.githubusercontent.com/20344968/225047832-9a292128-378b-460d-842d-0083992294b6.png)](https://lidachk.github.io/cssBayan/cssBayan/)
+ - [Cthulhu Codewars Hokku ![image](https://user-images.githubusercontent.com/20344968/225047832-9a292128-378b-460d-842d-0083992294b6.png)](https://lidachk.github.io/cssBayan/cssBayan/)
   - [Virtual Keyboard ![image](https://user-images.githubusercontent.com/20344968/235556931-778b5546-c34d-4276-9599-d02f568418f6.png)](https://lidachk.github.io/virtual-keyboard/page/)
   
 
